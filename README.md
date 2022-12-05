@@ -1,5 +1,5 @@
 # The_Right_Tools
-The best tools to use for different things
+The right tools for the right things.
 
 JSON VISUALIZATION
 - [JSON CRACK](https://github.com/AykutSarac/jsoncrack.com)
